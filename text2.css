@@ -1,0 +1,56 @@
+body {
+    background-color: bisque;
+text-decoration-color: darkcyan;
+width: 300pxpx;
+height: 5000px;
+}
+
+main {
+    margin: 3rem;
+    padding: 2rem;
+}
+ survey-form{
+    background-color: azure;
+    width: 200px;
+    display: block;
+ }
+description{
+    text-align: center;
+    width: 100px;
+    height: 10px;
+}
+name{
+    border-radius: 5px;
+    border-color: aqua;
+}
+ 
+email{
+    border-radius: 5px;
+    border-color: aqua;
+    margin: 5px;
+}
+number{
+    border-radius: 5px;
+    margin: 5px;
+    border-color: aqua;
+}
+name-label{
+    text-decoration: dashed;
+}
+email-label{
+    text-decoration: dashed;
+}
+number-label{
+    text-decoration: dashed;
+}
+
+input {
+    margin-top: 1rem;
+}
+select {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+textarea {
+    background-color: rgb(200, 242, 248);
+}
